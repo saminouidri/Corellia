@@ -2,7 +2,7 @@
 ## What is Corellia?
 Corellia is a concept minimalist UI for a web browser, implemented with Visual Studio
 ## Installation :
-== [DOWNLOAD](http://download2262.mediafire.com/cwduz697h7xg/gx7sj6xs9ma9gs5/DFK-Juice+V1.zip)==
+== [DOWNLOAD](http://www.mediafire.com/file/lj7m7dm4l9qc4s1/Corellia.zip/file)==
 1. run setup.exe / Corellia.application
 2. Enjoy!
 
