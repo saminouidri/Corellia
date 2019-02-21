@@ -1,0 +1,40 @@
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\bin\Debug\Corellia.exe.config
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\bin\Debug\Corellia.exe
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\bin\Debug\Corellia.pdb
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\bin\Debug\Corellia.xml
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.vbprojAssemblyReference.cache
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.Resources.resources
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.vbproj.GenerateResource.cache
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.vbproj.CoreCompileInputs.cache
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.exe
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.xml
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.pdb
+C:\Users\NouidriSa\AppData\Local\Temporary Projects\Corellia\obj\Debug\Corellia.Form1.resources
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.exe.config
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.exe
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.pdb
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.xml
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbprojAssemblyReference.cache
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.Form1.resources
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.Resources.resources
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbproj.GenerateResource.cache
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbproj.CoreCompileInputs.cache
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.exe
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.xml
+M:\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.pdb
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.exe.config
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.exe
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.pdb
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.xml
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.Form1.resources
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.Resources.resources
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbproj.GenerateResource.Cache
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbproj.CoreCompileInputs.cache
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.exe
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.xml
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.pdb
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.vbprojResolveAssemblyReference.cache
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.exe.manifest
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\bin\Debug\Corellia.application
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.exe.manifest
+C:\Users\Surox\Documents\Visual Studio 2017\Projects\Corellia\Corellia\Corellia\obj\Debug\Corellia.application
