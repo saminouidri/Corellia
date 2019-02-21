@@ -1,4 +1,4 @@
-![Corellia](https://imgur.com/xzzVRRG.png)
+![Corellia](https://imgur.com/Lp3edsJ.png)
 ## What is Corellia?
 Corellia is a concept minimalist UI for a web browser, implemented with Visual Studio
 ## Installation :
